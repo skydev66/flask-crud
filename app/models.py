@@ -1,3 +1,4 @@
+#import library
 from app import db
 
 class Entry(db.Model):
